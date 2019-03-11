@@ -11,52 +11,52 @@
     },
     {
         "id": 3,
-        "image": "../images/puppy3.jpeg",
+        "image": "https://images.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 4,
-        "image": "../images/puppy4.jpeg",
+        "image": "https://images.pexels.com/photos/1663421/pexels-photo-1663421.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 5,
-        "image": "../images/puppy5.jpeg",
+        "image": "https://images.pexels.com/photos/460823/pexels-photo-460823.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 6,
-        "image": "../images/puppy6.jpeg",
+        "image": "https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 7,
-        "image": "../images/puppy7.jpeg",
+        "image": "https://images.pexels.com/photos/672244/pexels-photo-672244.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 8,
-        "image": "../images/puppy8.jpeg",
+        "image": "https://images.pexels.com/photos/208834/pexels-photo-208834.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 9,
-        "image": "../images/puppy9.jpeg",
+        "image": "https://images.pexels.com/photos/208109/pexels-photo-208109.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 10,
-        "image": "../images/puppy10.jpeg",
+        "image": "https://images.pexels.com/photos/67680/pexels-photo-67680.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 11,
-        "image": "../images/puppy11.jpeg",
+        "image": "https://images.pexels.com/photos/160962/puppy-dog-shepherd-cute-160962.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     },
     {
         "id": 12,
-        "image": "../images/puppy12.jpeg",
+        "image": "https://images.pexels.com/photos/133195/pexels-photo-133195.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         "clicked": false
     }
 ]
