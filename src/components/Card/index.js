@@ -3,9 +3,9 @@ import "./style.css";
 // import GameBoard from "../GameBoard";
 
 const Card = props => (
-    <div className="card img-container hover hover">
+    <div className="puppy-card img-container">
         <img alt={props.name} src={props.image} id={props.id}
-        onClick={() => props.shuffleBoard(props.id)} className="shuffleScore"/>
+        onClick={() => props.clickyClick(props.id)} className="shuffle"/>
     </div>
 )
 

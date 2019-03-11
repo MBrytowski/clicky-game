@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "image": "/public/images/puppy1.jpeg",
-        "clicked": false
+        "image": "../images/puppy1.jpg",
+        "clicked": "false"
     },
     {
         "id": 2,
-        "image": "/public/images/puppy2.jpeg",
-        "clicked": false
+        "image": "../images/puppy2.jpg",
+        "clicked": "false"
     },
     {
         "id": 3,
-        "image": "/public/images/puppy3.jpeg",
-        "clicked": false
+        "image": "../images/puppy3.jpeg",
+        "clicked": "false"
     },
     {
         "id": 4,
-        "image": "/public/images/puppy4.jpeg",
-        "clicked": false
+        "image": "../images/puppy4.jpeg",
+        "clicked": "false"
     },
     {
         "id": 5,
-        "image": "/public/images/puppy5.jpeg",
-        "clicked": false
+        "image": "../images/puppy5.jpeg",
+        "clicked": "false"
     },
     {
         "id": 6,
-        "image": "/public/images/puppy6.jpeg",
-        "clicked": false
+        "image": "../images/puppy6.jpeg",
+        "clicked": "false"
     },
     {
         "id": 7,
-        "image": "/public/images/puppy7.jpeg",
-        "clicked": false
+        "image": "../images/puppy7.jpeg",
+        "clicked": "false"
     },
     {
         "id": 8,
-        "image": "/public/images/puppy8.jpeg",
-        "clicked": false
+        "image": "../images/puppy8.jpeg",
+        "clicked": "false"
     },
     {
         "id": 9,
-        "image": "/public/images/puppy9.jpeg",
-        "clicked": false
+        "image": "../images/puppy9.jpeg",
+        "clicked": "false"
     },
     {
         "id": 10,
-        "image": "/public/images/puppy10.jpeg",
-        "clicked": false
+        "image": "../images/puppy10.jpeg",
+        "clicked": "false"
     },
     {
         "id": 11,
-        "image": "/public/images/puppy11.jpeg",
-        "clicked": false
+        "image": "../images/puppy11.jpeg",
+        "clicked": "false"
     },
     {
         "id": 12,
-        "image": "/public/images/puppy12.jpeg",
-        "clicked": false
+        "image": "../images/puppy12.jpeg",
+        "clicked": "false"
     }
 ]

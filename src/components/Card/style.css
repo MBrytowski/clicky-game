@@ -1,0 +1,9 @@
+.shuffle {
+    background-size: cover;
+    height: 225px;
+    width: 225px;
+    margin: 8px 25px;
+    border: 5px solid white;
+    display: flex;
+    position: relative;
+}

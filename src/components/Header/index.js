@@ -4,23 +4,23 @@ import "./style.css";
 function Header(props) {
   return (
     <>
-      <ul class="nav header justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link" href="/">
+      <ul className="nav header justify-content-center">
+        <li className="nav-item">
+          <a className="nav-link" href="/">
             Click Memory Game
           </a>
         </li>
-        <li class="nav-item">
-          <p class="nav-link">Current Score: {props.roundScore} | Top Score: {props.highScore}</p>
+        <li className="nav-item">
+          <p className="nav-link">Current Score: {props.roundScore} | Top Score: {props.highScore}</p>
         </li>
       </ul>
-      <div class="jumbotron jumbotron-fluid">
-        <div class="container">
-          <h1 class="display-4">Memory Game</h1>
-          <p class="lead">
+      <div className="jumbotron jumbotron-fluid">
+        <div className="container">
+          <h1 className="display-4">Memory Game</h1>
+          <p className="lead">
             Click on any picture below, but be sure not to click the same picture twice!
-            Click on any picture to begin.
           </p>
+          {props.message}
         </div>
       </div>
     </>
@@ -28,11 +28,3 @@ function Header(props) {
 }
 
 export default Header;
-
-// To Do:
-//Create props that increment
-//Add photos
-//Randomize photos on click
-//top score persists until a new high score
-//Round score that is reset
-//on click creates shuffle, increases score if id has not been clicked
