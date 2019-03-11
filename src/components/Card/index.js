@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-// import GameBoard from "../GameBoard";
 
 const Card = props => (
     <div className="puppy-card img-container">

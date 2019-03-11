@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "image": "../images/puppy1.jpg",
-        "clicked": "false"
+        "image": "https://static.boredpanda.com/blog/wp-content/uploads/2018/10/cutest-puppy-dog-pictures-coverimage.jpg",
+        "clicked": false
     },
     {
         "id": 2,
-        "image": "../images/puppy2.jpg",
-        "clicked": "false"
+        "image": "https://404store.com/2018/02/05/Cute-puppy-photos-110.jpg",
+        "clicked": false
     },
     {
         "id": 3,
         "image": "../images/puppy3.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 4,
         "image": "../images/puppy4.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 5,
         "image": "../images/puppy5.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 6,
         "image": "../images/puppy6.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 7,
         "image": "../images/puppy7.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 8,
         "image": "../images/puppy8.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 9,
         "image": "../images/puppy9.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 10,
         "image": "../images/puppy10.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 11,
         "image": "../images/puppy11.jpeg",
-        "clicked": "false"
+        "clicked": false
     },
     {
         "id": 12,
         "image": "../images/puppy12.jpeg",
-        "clicked": "false"
+        "clicked": false
     }
 ]
