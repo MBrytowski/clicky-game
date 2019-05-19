@@ -3,7 +3,7 @@
     height: 225px;
     width: 225px;
     margin: 8px 25px;
-    border: 5px solid white;
+    border: 5px solid grey;
     display: flex;
     position: relative;
 }

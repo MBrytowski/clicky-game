@@ -3,6 +3,7 @@ import Header from "../Header";
 import pics from "../data.json";
 import Card from "../Card";
 import Wrapper from "../Wrapper";
+import Footer from "../Footer";
 
 class GameBoard extends Component {
   constructor(props) {
@@ -70,6 +71,7 @@ class GameBoard extends Component {
             roundScore={this.state.roundScore}/>
           ))}
         </Wrapper>
+        <Footer></Footer>
       </div>
     );
   }
